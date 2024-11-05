@@ -1,0 +1,64 @@
+:root {
+  --swiper-navigation-color: #eaeaea;
+}
+
+.hero-logo {
+    width: 150px;
+}
+
+.gold {
+    color: #B8860B;
+}
+
+.margin-top {
+    margin-top: 5rem !important;
+}
+
+.margin-top-small {
+    margin-top: 3.5rem !important;
+}
+
+.margin-top-xs {
+    margin-top: 1rem !important;
+}
+
+.margin-top-m {
+    margin-top: 2rem !important;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+}
+
+
+@media (max-width: 767px) {
+    .hero-logo {
+        width: 110px;
+    }
+
+    .header-content {
+        gap: 3rem;
+    }
+}
+
+.big {
+    font-size: 120%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+.testimonial {
+    margin: 0 10vw 0 10vw;
+}
+
+@media screen and (max-width: 800px) {
+    .testimonial {
+        margin: 0 13vw 0 13vw;
+    }
+}
