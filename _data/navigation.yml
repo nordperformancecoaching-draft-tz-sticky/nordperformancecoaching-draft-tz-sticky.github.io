@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Deine Ziele"
+    url: /#goals
+    blank: false
+  - title: "Angebote"
+    url: /#services
+    blank: false
+  - title: "Über mich"
+    url: /about
+    blank: false
+  - title: "Testimonials"
+    url: /testimonials
+    blank: false
+  - title: "Kontakt"
+    url: /contact
+    blank: false
