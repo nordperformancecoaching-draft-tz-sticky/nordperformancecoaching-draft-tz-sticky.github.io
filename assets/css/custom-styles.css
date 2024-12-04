@@ -66,6 +66,7 @@
 
 .testimonial {
     margin: 0 10vw 0 10vw;
+    padding: 1rem;
 }
 
 @media screen and (max-width: 800px) {
@@ -86,13 +87,3 @@ li {
     color: #FFFFFF !important;
 }
 
-
-/* Wrapper for positioning the Instagram buttons */
-.instagram-buttons {
-    position: absolute;
-    bottom: 30px; /* Adjust as needed for spacing from the bottom */
-    right: 30px; /* Adjust as needed for spacing from the right */
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-}
